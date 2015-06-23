@@ -1,0 +1,26 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #BCBBBB;   
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.text-bold {
+    font-weight: bolder;   
+}
+
+.title-super {
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+.title-logo {
+    margin-top: 20px;
+}
